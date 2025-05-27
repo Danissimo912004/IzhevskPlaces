@@ -1,4 +1,4 @@
-package com.example.izhevskplaces
+package com.example.izhevskplaces.data
 
 
 import androidx.compose.runtime.Composable
